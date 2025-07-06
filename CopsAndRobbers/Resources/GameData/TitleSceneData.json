@@ -1,0 +1,54 @@
+{
+   "character": {
+      "Player": [
+         {
+         "position": { "x": -8.5, "y": -0.5, "z": 10.5 },
+         "rotation": 0.0,
+         "scale": { "x": 1.0, "y": 1.0, "z": 1.0 }
+         }
+      ],
+      "Fellow": [
+         {
+         "position": { "x": -1.5, "y": 0.3, "z": 8.7 },
+         "rotation": 0.0,
+         "scale": { "x": 0.5, "y": 2.0, "z": 0.5 }
+         }
+      ],
+      "Enemy":[
+         {
+            "enemyNumber": 0,
+            "position": { "x": -11.0, "y": -0.5, "z": 10.5 },
+            "rotation": 0.0,
+            "scale": { "x": 1.5, "y": 2.0, "z": 1.5 }
+         }
+      ]
+   },
+   "objects":{
+      "Prison":[
+         {
+            "position":{ "x": 0.0, "y":-0.5, "z": 8.0},
+            "rotation":{ "x": 0.0, "y": 0.0, "z": 0.0},
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0}
+         }
+      ],
+      "Light":[
+         {
+            "model": false,
+            "position": { "x": -3.0, "y": 5.0, "z": 10.0},
+            "rotation": { "x": 0.0, "y": 0.0, "z": 0.0},
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0},
+            "color": { "r": 0.8, "g": 0.8, "b": 0.8},
+            "range":10.0
+         }
+      ],
+      "Floor":[
+         {
+            "modelType": 1,
+            "position": { "x": 0.0, "y": -0.5, "z": 0.0},
+            "rotation": { "x": 0.0, "y": 0.0, "z": 0.0},
+            "scale": { "x": 20.0, "y": 0.05, "z": 20.0 }
+         }
+      ]
+   }
+}
+

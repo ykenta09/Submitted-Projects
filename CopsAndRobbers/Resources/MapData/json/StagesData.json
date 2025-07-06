@@ -1,0 +1,10 @@
+{
+   "stages": [
+      { "number": 1, "position": {"x": 0, "y": 0, "z": 0}},
+      { "number": 2, "position": {"x": 0, "y": 0, "z": -80}},
+      { "number": 3, "position": {"x": -80, "y": 0, "z": -80}},
+      { "number": 4, "position": {"x": 80, "y": 0, "z": -80}},
+      { "number": 5, "position": {"x": 0, "y": 0, "z": -160}}
+   ]
+}
+
